@@ -24,7 +24,6 @@ a {
 }
 
 .main {
-  flex: none;
   width: 50%;
   height: 100vh;
   overflow-y: hidden;
